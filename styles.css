@@ -1,0 +1,28 @@
+﻿body {
+    background-color: indianred;
+}
+
+header {
+    text-align: center;
+    margin: 1em 0 1em 0;
+    font-family: 'Pacifico', cursive;
+}
+
+#gallery {
+    font-size: 6.7em;
+}
+
+.icon:hover {
+    transform: scale(1.15) !important;
+}
+
+#video {
+    font-size: 5em;
+}
+
+footer {
+    background-color: #212529;
+    color: indianred;
+    text-align: center;
+    height: 100%;
+}
